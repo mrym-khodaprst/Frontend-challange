@@ -34,3 +34,20 @@
     direction: rtl;
     font-family: yekan bakh;
 }
+.head {
+    background-color: #001215;
+    background-image: url('./image/Switch.svg');
+    padding: 72px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-text {
+    width: 640px;
+}
+
+.button-text {
+    font-size: 12px;
+    font-weight: 700;
+    color: #005B5B;
+}
