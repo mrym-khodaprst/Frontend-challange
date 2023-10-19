@@ -98,3 +98,10 @@
     font-weight: 700;
     color: #566E88;
 }
+.item-svg {
+    color: #00A7A7;
+}
+.online-shopping {
+    border-right: 2px solid #008C8C;
+    color: #008C8C;
+}
