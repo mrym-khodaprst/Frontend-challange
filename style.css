@@ -34,6 +34,7 @@
     direction: rtl;
     font-family: yekan bakh;
 }
+
 header {
     background-color: #001215;
     background-image: url('./image/Switch.svg');
@@ -55,10 +56,18 @@ header {
     font-weight: 700;
     color: #005B5B;
 }
-/* .main-part {
+
+.line {
     border-right: 1px dashed #F1F1F5;
+    height: 70rem;
+}
+.line-left {
     border-left: 1px dashed #F1F1F5;
-} */
+    height: 70rem;
+}
+.main-body {
+    top: 31.25rem;
+}
 .use-case-text {
     font-size: 1.12rem;
     color: #008C8C;
@@ -90,7 +99,7 @@ header {
 .main-description {
     font-size: 1.12rem;
     font-weight: 500;
-    width: 36rem;
+    letter-spacing: 0.36px;
     color: #566E88;
 }
 .item-svg {
