@@ -92,12 +92,20 @@
 .main-description {
     font-size: 16px;
     font-weight: 700;
+    width: 36rem;
     color: #566E88;
 }
 .item-svg {
     color: #00A7A7;
 }
+.item-text {
+    font-size: 1rem;
+    color: #253343;
+    font-weight: 700;
+}
 .online-shopping {
     border-right: 2px solid #008C8C;
     color: #008C8C;
+    font-size: 1rem;
+    font-weight: 700;
 }
