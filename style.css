@@ -45,16 +45,18 @@
 .header-text {
     width: 640px;
 }
-
+.header-title {
+    font-size: 2.5rem;
+}
 .button-text {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
     color: #005B5B;
 }
-.main-part {
+/* .main-part {
     border-right: 1px dashed #F1F1F5;
     border-left: 1px dashed #F1F1F5;
-}
+} */
 .use-case-text {
     font-size: 16px;
     color: #008C8C;
