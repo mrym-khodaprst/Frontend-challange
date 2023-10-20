@@ -37,19 +37,19 @@
 .head {
     background-color: #001215;
     background-image: url('./image/Switch.svg');
-    padding: 72px 0;
+    padding: 4.5rem 0;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .header-text {
-    width: 640px;
+    width: 40rem;
 }
 .header-title {
     font-size: 2.5rem;
 }
 .button-text {
-    font-size: 14px;
+    font-size: 0.87rem;
     font-weight: 700;
     color: #005B5B;
 }
@@ -58,17 +58,17 @@
     border-left: 1px dashed #F1F1F5;
 } */
 .use-case-text {
-    font-size: 16px;
+    font-size: 1.12rem;
     color: #008C8C;
     font-weight: 700;
 }
 
 .feature-need-text {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 .item {
-    font-size: 16px;
+    font-size: 1.12rem;
     font-weight: 700;
     color: #566E88;
 }
@@ -80,18 +80,14 @@
     color: #00A7A7;
     font-weight: 800;
     border-bottom: 2px solid #D1DBE8;
-    padding-bottom: 15px;
+    padding-bottom: 1rem;
     width: 17.5rem;
     position: absolute;
 }
 
-
-
-
-
 .main-description {
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 1.12rem;
+    font-weight: 500;
     width: 36rem;
     color: #566E88;
 }
