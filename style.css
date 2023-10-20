@@ -68,33 +68,27 @@
     font-size: 40px;
 }
 .item {
-    width: 300px;
-    height: 32px;
     font-size: 16px;
     font-weight: 700;
     color: #566E88;
 }
-
-.online-shop {
-    color: #00A7A7;
-    font-weight: 900;
-}
-
 .items {
+    position: relative;
     border-bottom: 1px dashed #D1DBE8;
 }
-
-.double-border {
-    position: relative;
-}
-
-.double-border::after {
-    content: "";
-    position: absolute;
-    width: 280px;
-    height: 50px;
+.online-shop {
+    color: #00A7A7;
+    font-weight: 800;
     border-bottom: 2px solid #D1DBE8;
+    padding-bottom: 15px;
+    width: 17.5rem;
+    position: absolute;
 }
+
+
+
+
+
 .main-description {
     font-size: 16px;
     font-weight: 700;
