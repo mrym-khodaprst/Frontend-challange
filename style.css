@@ -177,3 +177,19 @@ header {
 .contact-sales {
     background-color: transparent;
 }
+
+.responsive-item {
+    border: 5px solid #008C8C;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.responsive-online-shop {
+    background-image: linear-gradient(to left , #00BABA, #002437);
+}
+
+.responsive-item:hover{
+    background-image: linear-gradient(to left , #00BABA, #002437) ;
+    color: white;
+}
