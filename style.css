@@ -59,11 +59,10 @@ header {
 
 .line {
     border-right: 1px dashed #F1F1F5;
-    height: 70rem;
+    z-index: -2;
 }
 .line-left {
     border-left: 1px dashed #F1F1F5;
-    height: 70rem;
 }
 .main-body {
     top: 31.25rem;
