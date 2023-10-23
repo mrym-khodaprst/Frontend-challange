@@ -205,7 +205,7 @@ header {
     background-color: transparent;
 }
 
-.responsive-item {
+.mobile-item {
     border-color: #008C8C !important;
     margin-bottom: 12px;
     margin-left: 12px;
@@ -213,16 +213,16 @@ header {
     font-weight: 700;
 }
 
-.responsive-online-shop {
+.mobile-online-shop {
     background-image: linear-gradient(to left, #00BABA, #002437);
 }
 
-.responsive-item:hover {
+.mobile-item:hover {
     background-image: linear-gradient(to left, #00BABA, #002437) !important;
     color: white !important;
 }
 
-.responsive-online-shoping {
+.mobile-online-shoping {
     border-color: #00A7A7 !important;
     padding: 12px 32px;
     font-size: 1rem;
